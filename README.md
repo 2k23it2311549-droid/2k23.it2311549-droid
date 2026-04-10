@@ -27,8 +27,7 @@
 ---
 
 ## 📫 Contact Me
-- 📧 Email: yourmail@gmail.com
-- 💼 LinkedIn: your link
+- 📧 Email: 2k23.it2311549@gmail.com
 
 ---
 
