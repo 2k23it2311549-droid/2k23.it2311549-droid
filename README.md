@@ -1,6 +1,6 @@
 # 2k23.it2311549-droid
 <h1 align="center">Hi 👋, I'm Mohit Yadav</h1>
-<h3 align="center">Full Stack Developer | MERN | Blockchain Enthusiast</h3>
+<h3 align="center">Full Stack Developer | MERN | Blockchain Enthusiast| Machine Learning| Artificial Intelligence</h3>
 
 ---
 
